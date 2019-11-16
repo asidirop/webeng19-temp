@@ -1,0 +1,11 @@
+hello
+
+a =  5
+
+<<<<<<< HEAD
+b = 2
+=======
+b = 999
+>>>>>>> origin/master
+
+c = 7
